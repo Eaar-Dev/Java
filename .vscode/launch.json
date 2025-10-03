@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Example1",
             "request": "launch",
+            "mainClass": "Ciclos.Dowhile.Example1",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCicle",
+            "request": "launch",
+            "mainClass": "Ciclos.Dowhile.DoWhileCicle",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileCicle",
+            "request": "launch",
+            "mainClass": "DoWhileCicle",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
             "mainClass": "Ciclos.While.Example1",
             "projectName": "Java_28a7f87d"
         },
