@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "Ciclos.While.Example1",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "Ciclos.Example1",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "WhileCicle",
+            "request": "launch",
+            "mainClass": "Ciclos.WhileCicle",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "WhileCicle",
+            "request": "launch",
+            "mainClass": "WhileCicle.WhileCicle",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "WhileCicle.Example1",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
