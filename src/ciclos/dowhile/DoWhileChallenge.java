@@ -1,6 +1,6 @@
 package ciclos.dowhile;
 
-public class ChallengeDoWhile {
+public class DoWhileChallenge {
 
     public static void main(String[] args) {
         System.out.println("*** Reto: Número Impares ***");
