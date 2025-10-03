@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChallengeDoWhile",
+            "request": "launch",
+            "mainClass": "ciclos.dowhile.ChallengeDoWhile",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
+            "name": "ChallengeDoWhile",
+            "request": "launch",
+            "mainClass": "java.ciclos.dowhile.ChallengeDoWhile",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
             "name": "Example1",
             "request": "launch",
             "mainClass": "Ciclos.Dowhile.Example1",

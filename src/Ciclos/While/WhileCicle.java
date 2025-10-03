@@ -1,4 +1,3 @@
-package Ciclos.While;
 
 public class WhileCicle {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Ciclos.Dowhile;
+package ciclos.dowhile;
 
 public class DoWhileCicle {
     public static void main(String[] args) {
