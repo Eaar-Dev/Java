@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForChallenge",
+            "request": "launch",
+            "mainClass": "ForChallenge",
+            "projectName": "Java_28a7f87d"
+        },
+        {
+            "type": "java",
             "name": "ChallengeDoWhile",
             "request": "launch",
             "mainClass": "ciclos.dowhile.ChallengeDoWhile",
