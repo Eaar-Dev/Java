@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Example01 {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
 
         System.out.println("*** Bart's Detention ***");
